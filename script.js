@@ -63,7 +63,7 @@ async function app(){
   }
 }
 
-/*
+/**/
 img.onload =async function() {
 
    try {
@@ -73,7 +73,7 @@ img.onload =async function() {
 
    }
  }
-*/
+/**/
 
 async function  cambiarImagen(){
   count =count + 1;
